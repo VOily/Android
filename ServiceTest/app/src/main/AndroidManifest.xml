@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.servicetest">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ServiceTest">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 配置Service组件,同时配置一个action -->
+        <service android:name=".Test1" android:exported="false">
+            <intent-filter>
+                <action android:name="com.example.servicetest.TEST_SERVICE1"/>
+            </intent-filter>
+        </service>
+
+        <service android:name=".Test2" android:exported="false">
+            <intent-filter>
+                <action android:name="com.example.servicetest.TEST_SERVICE2"/>
+            </intent-filter>
+        </service>
+
+    </application>
+
+</manifest>

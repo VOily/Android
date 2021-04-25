@@ -13,14 +13,6 @@
         android:theme="@style/Theme.SE">
 
         <!--第一个<activity>作为main主入口-->
-        <activity android:name=".AdapterDemo">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,6 +21,18 @@
             </intent-filter>
         </activity>
 
+        <!--第二个Activity-->
+        <activity android:name=".AdapterDemo" android:label="adapter">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+
+        <activity android:name=".ActivityAlter" android:label="WebView">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
     </application>
 
 
