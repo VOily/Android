@@ -21,6 +21,12 @@ public class Test1 extends Service {
     @Override
     public void onCreate() {
         Log.i(TAG, "onCreate方法被调用!");
+        /*service的启动时间过长，实际是在mainThread运行 会有ANR异常 使用intentService可避免
+        try {
+            Thread.sleep(30000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }*/
         super.onCreate();
     }
 

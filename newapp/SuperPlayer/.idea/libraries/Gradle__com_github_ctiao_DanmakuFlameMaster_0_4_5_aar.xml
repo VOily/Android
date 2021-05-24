@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ctiao:DanmakuFlameMaster:0.4.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70af5ff1480b6587b5410522bd7b9e8d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70af5ff1480b6587b5410522bd7b9e8d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70af5ff1480b6587b5410522bd7b9e8d/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ctiao/DanmakuFlameMaster/0.4.5/c5ca465c051c24dcf72c002a8edccc124aa1a236/DanmakuFlameMaster-0.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

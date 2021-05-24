@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00230c05-5cf5-4476-9a05-67f840170975" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/libraries/appcompat_v7_19_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/libraries/support_v4_19_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/scopes/scope_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/ActivityTest1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/androidTest/java/example/jay/com/activitytest1/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/java/example/com/activitytest1/MyActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/java/example/com/activitytest1/MyActivity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/layout/activity_my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/layout/activity_my_activity2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/menu/my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/menu/my_activity2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/libraries/appcompat_v7_19_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/libraries/support_v4_19_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/scopes/scope_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/ActivityTest2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/androidTest/java/example/jay/com/activitytest2/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/java/example/jay/com/activitytest2/MyActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/java/example/jay/com/activitytest2/MyActivity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-hdpi/icon9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/layout/activity_my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/layout/activity_my_activity2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/menu/my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/menu/my_activity2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ActivityTest2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SE/app/src/main/java/com/example/se/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SE/app/src/main/java/com/example/se/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ServiceTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ServiceTest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ServiceTest/app/src/main/java/com/example/servicetest/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ServiceTest/app/src/main/java/com/example/servicetest/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ServiceTest/app/src/main/java/com/example/servicetest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ServiceTest/app/src/main/java/com/example/servicetest/Test1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1sBvtgnPf7Txa6UFcR4xOWftZgn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_XL_API_28_9" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-10T08:13:40.828Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/20421/AppData/Local/Android/Sdk/sources/android-28/android/widget/AdapterView.java_SELECTED" value="AdapterView" />
+    <property name="android-custom-viewD:/code/Android/newapp/SuperPlayer/vitamio/src/io/vov/vitamio/widget/MediaController.java_SELECTED" value="MediaController" />
+    <property name="android-custom-viewD:/code/Android/newapp/SuperPlayer/vitamio/src/io/vov/vitamio/widget/VideoView.java_SELECTED" value="VideoView" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SE" />
+    <property name="multi-representation-previewC:/Users/20421/AppData/Local/Android/Sdk/sources/android-28/android/widget/AdapterView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/code/Android/newapp/SuperPlayer/vitamio/src/io/vov/vitamio/widget/MediaController.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/code/Android/newapp/SuperPlayer/vitamio/src/io/vov/vitamio/widget/VideoView.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="SuperPlayer.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00230c05-5cf5-4476-9a05-67f840170975" name="Default Changelist" comment="" />
+      <created>1620359014542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620359014542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="182" y="255" key="#Gradle" timestamp="1620374996116">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="182" y="255" key="#Gradle/0.0.1536.834@0.0.1536.834" timestamp="1620374996116" />
+    <state x="46" y="139" key="#PSD" timestamp="1620820916491">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="46" y="139" key="#PSD/0.0.1536.834@0.0.1536.834" timestamp="1620820916491" />
+    <state x="599" y="272" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1620546936535">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="272" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1536.834@0.0.1536.834" timestamp="1620546936535" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1621100321679">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1621100321679" />
+    <state x="336" y="110" width="614" height="640" key="AVDManager" timestamp="1620634527585">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="336" y="110" width="614" height="640" key="AVDManager/0.0.1536.834@0.0.1536.834" timestamp="1620634527585" />
+    <state x="549" y="162" key="AndroidProcessChooserDialog" timestamp="1620703654263">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="162" key="AndroidProcessChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1620703654263" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1621762783482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1621762783482" />
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom" timestamp="1620707948556">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1620707948556" />
+    <state width="1493" height="321" key="GridCell.Tab.0.center" timestamp="1620707948555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1620707948555" />
+    <state width="1493" height="321" key="GridCell.Tab.0.left" timestamp="1620707948555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1620707948555" />
+    <state width="1493" height="321" key="GridCell.Tab.0.right" timestamp="1620707948556">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1620707948556" />
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom" timestamp="1620634604362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1620634604362" />
+    <state width="1493" height="183" key="GridCell.Tab.1.center" timestamp="1620634604362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1620634604362" />
+    <state width="1493" height="183" key="GridCell.Tab.1.left" timestamp="1620634604362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1620634604362" />
+    <state width="1493" height="183" key="GridCell.Tab.1.right" timestamp="1620634604362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1620634604362" />
+    <state x="483" y="32" key="SettingsEditor" timestamp="1620544214746">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="483" y="32" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1620544214746" />
+    <state x="565" y="194" key="chooseDestDirectoryDialog" timestamp="1621100301155">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="565" y="194" key="chooseDestDirectoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1621100301155" />
+    <state x="473" y="228" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1620628716334">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="473" y="228" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1536.834@0.0.1536.834" timestamp="1620628716334" />
+    <state x="322" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1620617645315">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="322" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1620617645315" />
+    <state x="-6" y="0" width="747" height="840" key="dock-window-1" timestamp="1620461260099">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-6" y="0" width="747" height="840" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1620461260099" />
+    <state x="461" y="259" key="edit.logcat.filter.dialog.dimensions" timestamp="1620634239326">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="461" y="259" key="edit.logcat.filter.dialog.dimensions/0.0.1536.834@0.0.1536.834" timestamp="1620634239326" />
+    <state x="666" y="152" width="596" height="536" key="find.popup" timestamp="1620610810506">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="666" y="152" width="596" height="536" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1620610810506" />
+    <state x="755" y="129" width="672" height="678" key="search.everywhere.popup" timestamp="1620631490904">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="755" y="129" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1620631490904" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/elliott/supervideoplayer/LaunchActivity.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/elliott/supervideoplayer/LaunchActivity.java</url>
+          <line>246</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/elliott/supervideoplayer/LaunchActivity.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/elliott/supervideoplayer/LaunchActivity.java</url>
+          <line>292</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/elliott/supervideoplayer/VideoViewActivity.java</url>
+          <line>261</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
